@@ -46,12 +46,15 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 LED Forward Characteristics 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/dd1ba895-ccb7-4b9c-a58b-2af58902b9f1" />
+Laser I-V characteristics
+![Uploading WhatsApp Image 2025-11-29 at 08.57.10_d2e23844.jpg…]()
 
 
 📈 MODEL GRAPH
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/47a85e6f-259d-494f-bdff-97da59d74a34" />
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/20ef5afc-789e-46d1-9969-6956a30fb5f2" />
+![Uploading WhatsApp Image 2025-11-25 at 13.05.46_82002b03.jpg…]()
 
 
 ## ✅ RESULT
