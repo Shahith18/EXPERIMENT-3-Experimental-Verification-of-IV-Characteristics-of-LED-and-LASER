@@ -55,7 +55,7 @@ Laser I-V characteristics
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/47a85e6f-259d-494f-bdff-97da59d74a34" />
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/20ef5afc-789e-46d1-9969-6956a30fb5f2" />
-![WhatsApp Image 2025-11-25 at 13 05 45_052b5f29](https://github.com/user-attachments/assets/793ed519-27cc-4f58-9285-2fc688334595)
+![WhatsApp Image 2025-11-29 at 08 57 10_17dc2453](https://github.com/user-attachments/assets/fa5002d6-1df7-4c67-b2b7-219e42f0f1dd)
 
 
 ## ✅ RESULT
